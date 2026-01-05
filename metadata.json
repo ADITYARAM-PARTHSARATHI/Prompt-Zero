@@ -1,5 +1,5 @@
 {
-  "name": "Prompt Zero - AI Visibility Tracker",
+  "name": "Lodestone - AI Visibility Tracker",
   "description": "A comprehensive platform to track how AI systems recommend your brand versus competitors, providing visibility scores, sentiment analysis, and replacement alerts.",
   "requestFramePermissions": [
     "camera",
